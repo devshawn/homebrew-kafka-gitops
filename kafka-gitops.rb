@@ -3,7 +3,7 @@ class KafkaGitops < Formula
     homepage "https://github.com/devshawn/kafka-gitops"
     url "https://github.com/devshawn/kafka-gitops/releases/download/0.2.5/kafka-gitops.zip"
     sha256 "b5613700fb19f541e13d3d8110027e0daaf7ac462a3d0ad69a235f0eabcccc95"
-    version "0.2.4"
+    version "0.2.5"
 
     bottle :unneeded
   
